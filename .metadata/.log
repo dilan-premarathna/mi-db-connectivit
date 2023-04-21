@@ -63,3 +63,6 @@ Binding(ALT+COMMAND+R,
 
 !ENTRY org.wso2.integrationstudio.ds.editor 4 0 2023-04-21 11:54:05.909
 !MESSAGE Property file does not exist.
+
+!ENTRY org.wso2.integrationstudio.maven.multi.module 4 0 2023-04-21 12:30:13.208
+!MESSAGE Error while parsing the xml file.

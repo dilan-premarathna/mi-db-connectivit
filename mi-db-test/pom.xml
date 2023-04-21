@@ -29,6 +29,13 @@
   <properties>
     <project.scm.id>integration-project</project.scm.id>
   </properties>
+  <dependencies>
+    <dependency>
+      <groupId>javax.activation</groupId>
+      <artifactId>javax.activation-api</artifactId>
+      <version>1.2.0</version>
+    </dependency>
+  </dependencies>
   <build>
     <plugins>
       <plugin>
