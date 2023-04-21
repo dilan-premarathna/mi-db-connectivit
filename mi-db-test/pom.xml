@@ -9,6 +9,7 @@
   <name>mi-db-test</name>
   <description>mi-db-test</description>
   <modules>
+    <module>abcd</module>
     <module>mi-db-testDataServiceConfigs</module>
     <module>mi-db-testConfigs</module>
     <module>mi-db-testCompositeExporter</module>
